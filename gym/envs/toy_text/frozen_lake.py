@@ -34,7 +34,7 @@ MAPS = {
         "FFFHFFFFHF",
         "FHHFFFHFFH",
         "FHFFFHHFHH",
-        "FHFFFHHFFF",
+        "FHFFFHHHFF",
         "FHFFFFFFHH",
         "FFFHFFFFFG",
     ],
