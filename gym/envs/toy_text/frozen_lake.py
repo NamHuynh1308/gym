@@ -276,7 +276,7 @@ class FrozenLakeEnv(Env):
 
         if self.render_mode == "human":
             self.render()
-        return int(self.s)
+        return int(self.s), {"prob": 1}
 
     def render(self):
         if self.render_mode is None:
